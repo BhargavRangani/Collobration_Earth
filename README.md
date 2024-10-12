@@ -1,3 +1,13 @@
-# Collobration_Earth
+# Earth Saver - Blockchain for Environmental Sustainability
+Earth Saver is a web application that promotes environmental sustainability through cryptocurrency. We created Earth Saver (ESV) as a prototype cryptocurrency to enable users to deposit, withdraw, and transfer tokens, participating in carbon offset projects and supporting eco-friendly initiatives.
 
-Created a dynamic web application that enables users to deposit, withdraw, and transfer cryptocurrency with ease. Featuring our proprietary cryptocurrency, "Earth Saver," the application offers seamless integration with MetaMask, allowing users to perform all transactions securely and efficiently. With an intuitive interface and robust functionality, this project showcases a practical implementation of blockchain technology and provides a user-friendly platform for managing digital assets.
+### Key Features
+- Earth Saver Coin (ESV): A cryptocurrency supporting conservation efforts.
+- MetaMask Integration: Secure transactions using MetaMask.
+- Smart Contracts: Token management via blockchain.
+- Simple UI: Easy-to-use interface for managing digital assets.
+### Technologies
+- Blockchain & Smart Contracts: For secure token management.
+- MetaMask: Wallet integration.
+- JavaScript (Node.js) & HTML/CSS: Backend and frontend development.
+- Sepolia Network: For testing smart contracts.
